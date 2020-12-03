@@ -8,7 +8,7 @@ namespace Projeto_01.Repositories
 {
     public class ClienteRepository
     {
-        private string path = @"h:\Projetos\Repositorio_local\COTI\Projeto_01\Projeto_01\Cliente.txt";
+        private string path = @"H:\Projetos\Repositorio_local\COTI\Projeto01\Cliente.txt";
         
         public void GravarDados(Cliente cliente)
         {

@@ -11,3 +11,16 @@ H:\Projetos\Repositorio_local\COTI\Projeto_01\Projeto_01\obj\Debug\netcoreapp3.1
 H:\Projetos\Repositorio_local\COTI\Projeto_01\Projeto_01\obj\Debug\netcoreapp3.1\Projeto_01.dll
 H:\Projetos\Repositorio_local\COTI\Projeto_01\Projeto_01\obj\Debug\netcoreapp3.1\Projeto_01.pdb
 H:\Projetos\Repositorio_local\COTI\Projeto_01\Projeto_01\obj\Debug\netcoreapp3.1\Projeto_01.genruntimeconfig.cache
+H:\Projetos\Repositorio_local\COTI\Projeto01\bin\Debug\netcoreapp3.1\Projeto_01.exe
+H:\Projetos\Repositorio_local\COTI\Projeto01\bin\Debug\netcoreapp3.1\Projeto_01.deps.json
+H:\Projetos\Repositorio_local\COTI\Projeto01\bin\Debug\netcoreapp3.1\Projeto_01.runtimeconfig.json
+H:\Projetos\Repositorio_local\COTI\Projeto01\bin\Debug\netcoreapp3.1\Projeto_01.runtimeconfig.dev.json
+H:\Projetos\Repositorio_local\COTI\Projeto01\bin\Debug\netcoreapp3.1\Projeto_01.dll
+H:\Projetos\Repositorio_local\COTI\Projeto01\bin\Debug\netcoreapp3.1\Projeto_01.pdb
+H:\Projetos\Repositorio_local\COTI\Projeto01\obj\Debug\netcoreapp3.1\Projeto_01.csprojAssemblyReference.cache
+H:\Projetos\Repositorio_local\COTI\Projeto01\obj\Debug\netcoreapp3.1\Projeto_01.AssemblyInfoInputs.cache
+H:\Projetos\Repositorio_local\COTI\Projeto01\obj\Debug\netcoreapp3.1\Projeto_01.AssemblyInfo.cs
+H:\Projetos\Repositorio_local\COTI\Projeto01\obj\Debug\netcoreapp3.1\Projeto_01.csproj.CoreCompileInputs.cache
+H:\Projetos\Repositorio_local\COTI\Projeto01\obj\Debug\netcoreapp3.1\Projeto_01.dll
+H:\Projetos\Repositorio_local\COTI\Projeto01\obj\Debug\netcoreapp3.1\Projeto_01.pdb
+H:\Projetos\Repositorio_local\COTI\Projeto01\obj\Debug\netcoreapp3.1\Projeto_01.genruntimeconfig.cache

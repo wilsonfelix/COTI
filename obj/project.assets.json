@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Projetos\\Repositorio_local\\COTI\\Projeto_01\\Projeto_01\\Projeto_01.csproj",
+      "projectUniqueName": "H:\\Projetos\\Repositorio_local\\COTI\\Projeto01\\Projeto_01.csproj",
       "projectName": "Projeto_01",
-      "projectPath": "H:\\Projetos\\Repositorio_local\\COTI\\Projeto_01\\Projeto_01\\Projeto_01.csproj",
+      "projectPath": "H:\\Projetos\\Repositorio_local\\COTI\\Projeto01\\Projeto_01.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "H:\\Projetos\\Repositorio_local\\COTI\\Projeto_01\\Projeto_01\\obj\\",
+      "outputPath": "H:\\Projetos\\Repositorio_local\\COTI\\Projeto01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
